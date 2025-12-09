@@ -37,19 +37,31 @@ Diff = A ⊕ B ⊕ Bin
 Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
+<img width="716" height="622" alt="Screenshot 2025-12-09 225459" src="https://github.com/user-attachments/assets/91d0d64f-fd17-4016-baad-3d5a5df8744c" />
+
+<img width="790" height="620" alt="Screenshot 2025-12-09 225625" src="https://github.com/user-attachments/assets/3a1b590b-eae1-4d1e-84be-20baf7911efb" />
 
 **Procedure**
 
-Write the detailed procedure here
+Step-1:Write the Verilog code for Full Adder and Full Subtractor using the logical expressions and save the files in the Quartus project.
+
+Step-2:Compile the project in Quartus to check for errors and ensure the design is successfully synthesized.
+
+Step-3:Run functional simulation using the Quartus/ModelSim simulator by applying all input combinations of A, B, and Cin/Bin.
+
+Step-4:Observe and verify the outputs and compare them with the theoretical truth tables of the Full Adder and Full Subtractor.
 
 **Program:**
 
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
+/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by:Sivasakthi S RegisterNumber:25017123
 */
+<img width="539" height="282" alt="EX4 4 4" src="https://github.com/user-attachments/assets/be1a8e63-b75b-4864-971b-2b092186c424" />
 
 **RTL Schematic**
+<img width="952" height="728" alt="EX4" src="https://github.com/user-attachments/assets/803eee3f-c9aa-45e9-a50a-6b5b8d2f7c0b" />
 
 **Output Timing Waveform**
+<img width="1919" height="427" alt="Ex4 4" src="https://github.com/user-attachments/assets/abb7f665-feee-48bb-92f8-786e123ab3ee" />
 
 **Result:**
 
