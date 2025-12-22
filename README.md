@@ -54,14 +54,17 @@ Step-4:Observe and verify the outputs and compare them with the theoretical trut
 **Program:**
 
 /* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by:Sivasakthi S RegisterNumber:25017123
+<img width="616" height="238" alt="Screenshot 2025-12-22 161431" src="https://github.com/user-attachments/assets/b31e7307-c6aa-4c84-852e-137eec2ba7ed" />
+
 */
-<img width="539" height="282" alt="EX4 4 4" src="https://github.com/user-attachments/assets/be1a8e63-b75b-4864-971b-2b092186c424" />
+
 
 **RTL Schematic**
-<img width="952" height="728" alt="EX4" src="https://github.com/user-attachments/assets/803eee3f-c9aa-45e9-a50a-6b5b8d2f7c0b" />
+<img width="887" height="809" alt="Screenshot 2025-12-22 161450" src="https://github.com/user-attachments/assets/eba3fd90-59c7-4870-a1cf-24680b332276" />
+
 
 **Output Timing Waveform**
-<img width="1919" height="427" alt="Ex4 4" src="https://github.com/user-attachments/assets/abb7f665-feee-48bb-92f8-786e123ab3ee" />
+<img width="1919" height="485" alt="Screenshot 2025-12-22 161732" src="https://github.com/user-attachments/assets/4b4f0ee9-b30b-40ad-b82d-88f771b69d16" />
 
 **Result:**
 
